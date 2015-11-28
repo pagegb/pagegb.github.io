@@ -50,7 +50,7 @@ body{margin: 0;
                position: absolute;	
                background-color: #fff;
                box-shadow: -1px -1px 5px rgba(227,227,227,.8), 1px 1px 5px rgba(186,186,186,.8);
-               z-index: 2;}
+               z-index: 9;}
 
 .menu ul li:hover ul{display: block;}	
 
@@ -293,7 +293,7 @@ body{margin: 0;
        font: 14px Roboto, Arial;
        line-height: 30px; }
 
-.bl-5{margin-left: 30px; }
+.bl-5{margin-left: 0px; }
   
 .bl-6 {line-height: 24px;
        margin-left: 50px;}

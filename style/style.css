@@ -50,7 +50,7 @@ body{margin: 0;
                position: absolute;	
                background-color: #fff;
                box-shadow: -1px -1px 5px rgba(227,227,227,.8), 1px 1px 5px rgba(186,186,186,.8);
-               z-index: 2;}
+               z-index: 9;}
 
 .menu ul li:hover ul{display: block;}	
 
@@ -308,7 +308,8 @@ body{margin: 0;
                margin-top: 3px;
                margin-right: 10px;
                position: relative;
-               top: 3px;}
+               top: 3px;
+               z-index:-3;}
 
 /*fonts*/
 
